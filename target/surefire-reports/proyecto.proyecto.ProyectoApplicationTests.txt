@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: proyecto.proyecto.ProyectoApplicationTests
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 8.183 s - in proyecto.proyecto.ProyectoApplicationTests
